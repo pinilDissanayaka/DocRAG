@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ```
 3. Start the application:
 ```
-python app.py
+streamlit run app.py
 ```
 
 4. Access the application at http://localhost:5000 in your web browser.
